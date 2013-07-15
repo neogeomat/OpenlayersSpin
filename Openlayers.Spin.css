@@ -1,0 +1,12 @@
+.olControlSpin {
+              background-image:url(http://dev.openlayers.org/addins/loadingPanel/trunk/theme/default/img/loading.gif);
+              margin-left: 30%;
+              margin-top: 10%;
+              position: absolute;
+              width: 195px;
+              height: 11px;
+              background-position:center;
+              background-repeat:no-repeat;
+              display: none;
+              z-index:15000;
+          }
